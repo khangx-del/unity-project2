@@ -1,4 +1,5 @@
 # Asteroid Project
+Asteroids är ett klassiskt arkadspel där spelaren styr ett rymdskepp i en öppen spelplan. Målet är att överleva genom att undvika och skjuta sönder asteroider som rör sig över skärmen. När asteroider förstörs kan de delas upp i mindre delar, vilket gör spelet mer utmanande. Spelaren får poäng genom att förstöra asteroider och spelet fortsätter tills rymdskeppet kolliderar med ett hinder. Detta project är för att öva göra en kopia av det.
 ## Kontroller
 
 I detta spel kontrollerar man en raket genom framåtrörelse och rotation. Målet är att skjuta sönder asteroider för att samla poäng, samtidigt som man undviker att kollidera med dem.
