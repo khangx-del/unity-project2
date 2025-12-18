@@ -14,6 +14,8 @@ Asteroider spawnar kontinuerligt och fungerar både som hinder och som spelets h
 
 Spelområdet har en oändlig loop (wrap-around), vilket innebär att om spelaren eller projektiler flyger utanför skärmen på ena sidan, dyker de upp igen på motsatt sida.
 
+Canvas sen i spelet vissar spelarens poäng när man söndrar asteroiderna
+
 
 https://github.com/user-attachments/assets/86405403-27c4-4ef9-9498-2a805ae98df7
 
