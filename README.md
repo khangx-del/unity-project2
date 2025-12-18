@@ -6,15 +6,15 @@ I detta spel kontrollerar man en raket genom framåtrörelse och rotation. Måle
 
 ## Funktionalitet
 
-Raketens rörelse styrs med W för framåt rörelse samt A och D för rotation åt vänster och höger.
+* Raketens rörelse styrs med W för framåt rörelse samt A och D för rotation åt vänster och höger.
 
-Med Spacebar skjuter raketen projektiler.
+* Med Spacebar skjuter raketen projektiler.
 
-Asteroider spawnar kontinuerligt och fungerar både som hinder och som spelets huvudsakliga objekt att förstöra för att få poäng.
+* Asteroider spawnar kontinuerligt och fungerar både som hinder och som spelets huvudsakliga objekt att förstöra för att få poäng.
 
-Spelområdet har en oändlig loop (wrap-around), vilket innebär att om spelaren eller projektiler flyger utanför skärmen på ena sidan, dyker de upp igen på motsatt sida.
+* Spelområdet har en oändlig loop (wrap-around), vilket innebär att om spelaren eller projektiler flyger utanför skärmen på ena sidan, dyker de upp igen på motsatt sida.
 
-Canvas sen i spelet vissar spelarens poäng när man söndrar asteroiderna
+* Canvas sen i spelet vissar spelarens poäng när man söndrar asteroiderna
 
 
 https://github.com/user-attachments/assets/86405403-27c4-4ef9-9498-2a805ae98df7
